@@ -1,0 +1,18 @@
+{
+    "name": "MGLib.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6b31e775ffb70dd4aa76103314f12e3b"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
